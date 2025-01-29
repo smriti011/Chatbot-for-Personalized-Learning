@@ -8,6 +8,8 @@ Prerequisites:
 * Rasa Open Source
 * Virtual environment (recommended)
 
+Step 1 : python -m rasa init
+
 Key files :
 
 actions : Directory for custom action code.
