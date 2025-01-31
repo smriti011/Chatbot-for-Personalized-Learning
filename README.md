@@ -15,3 +15,20 @@ This chatbot aims to make learning interactive, engaging, and tailored to the us
 * Personalized Learning: Delivers customized educational resources and guidance tailored to individual users' needs
 * Seamless LMS Integration: Interacts with external educational repositories to provide topic-specific content
 * NLU-Driven Interactions: Uses advanced Natural Language Understanding techniques for intelligent conversations
+
+### Tech Stack
+
+* Language: Python
+* Framework: RASA for building Chatbot
+* Machine Learning: Hugging Face Transformers (google/flan-t5-large)
+* APIs: YouTube Data API v3
+* Frontend: Streamlit
+* IDE: Visual Studio Code
+
+### Modules Implemented
+
+* Intent Recognition: Advanced NLU for understanding user queries
+* Dialogue Management: Context-aware conversation handling
+* LMS Integration: Seamless connection with educational repositories
+* Content Generation: AI-powered response generation
+* Video Recommendation: Smart YouTube content curation
