@@ -45,21 +45,21 @@ Prerequisites
 
 #### 1. Clone the repository
 
-``` https://github.com/smriti011/Chatbot-for-Personalized-Learning
+``` https://github.com/smriti011/Chatbot-for-Personalized-Learning```
 
 #### 2. Create and activate virtual environment
 
-python -m venv venv
+```python -m venv venv```
 
 * For Windows
-  venv\Scripts\activate
+  ```venv\Scripts\activate```
 
 * For Unix/MacOS
-  source venv/bin/activate
+  ```source venv/bin/activate```
 
 #### 3. Install dependencies
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 #### 4. Configure API keys: Create a ".env" file in the root directory:
 
@@ -67,7 +67,7 @@ YOUTUBE_API_KEY=your_key_here
 
 #### 5. Train RASA model:
 
-rasa train
+```rasa train```
 
 
 ### Deployment
@@ -75,7 +75,7 @@ rasa train
 
 1. Install Streamlit
 
-'''pip install streamlit'''
+```pip install streamlit```
 
 
 
