@@ -65,7 +65,7 @@ This chatbot aims to make learning interactive, engaging, and tailored to the us
 
 #### 4. Configure API keys: Create a ".env" file in the root directory:
 
-        YOUTUBE_API_KEY=your_key_here
+        YOUTUBE_API_KEY = your_key_here
 
 #### 5. Train RASA model:
 
