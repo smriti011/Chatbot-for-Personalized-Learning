@@ -32,3 +32,11 @@ This chatbot aims to make learning interactive, engaging, and tailored to the us
 * LMS Integration: Seamless connection with educational repositories
 * Content Generation: AI-powered response generation
 * Video Recommendation: Smart YouTube content curation
+
+### Setup Instruction
+
+* Prerequisites
+- Python 3.8+
+- Virtual Environment(recommended)
+- API Keys: YouTube Data API key
+
