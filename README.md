@@ -115,10 +115,10 @@ The application will be available at     http://localhost:8501/
 #### 3. Examples Interactions
 
                 User: "Explain Artificial Intelligence"
-                Bot: *Generates detailed explanation about the topic*
+                Bot: Generates detailed explanation about the topic
                 Bot: "Would you like to see some video resources?"
                 User: "Yes"
-                Bot: *Provides YouTube links related to the topic*
+                Bot: Provides YouTube links related to the topic
   
 
 ## Project Screenshots
