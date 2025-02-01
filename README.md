@@ -90,7 +90,7 @@ This chatbot aims to make learning interactive, engaging, and tailored to the us
                 # In another terminal, run Streamlit
                 streamlit run app.py
 
-The application will be available at     http://localhost:8501/    
+
 
 ## Deployment options
 
