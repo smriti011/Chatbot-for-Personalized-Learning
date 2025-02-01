@@ -129,5 +129,6 @@ This chatbot aims to make learning interactive, engaging, and tailored to the us
 
  ![Screenshot 2025-02-02 002131](https://github.com/user-attachments/assets/e77ba818-8303-4e73-a327-3d73c49734c9)
 
+![Screenshot 2025-02-02 015232](https://github.com/user-attachments/assets/1b31f413-e2ee-492b-82d7-7fd84f223abc)
 
 
