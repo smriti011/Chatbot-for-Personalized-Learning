@@ -8,7 +8,7 @@ Generates content based on user queries
 Recommends YouTube videos relevant to the topic
 This chatbot aims to make learning interactive, engaging, and tailored to the user's needs.
 
-### Features
+### Features 
 
 * Content Generation: Utilizes Hugging Face's google/flan-t5-large model for generating detailed and accurate responses to user queries
 * Video Recommendations: Integrates YouTube API to provide curated video recommendations based on the user's query
