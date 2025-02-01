@@ -123,11 +123,11 @@ The application will be available at     http://localhost:8501/
 
 ## Project Screenshots
 
-1. ![Screenshot 2025-02-01 235510](https://github.com/user-attachments/assets/18cc6034-0cfc-4d92-bbab-f8fbf5db1d52)
+ ![Screenshot 2025-02-01 235510](https://github.com/user-attachments/assets/18cc6034-0cfc-4d92-bbab-f8fbf5db1d52)
 
-2. ![Screenshot 2025-02-02 002059](https://github.com/user-attachments/assets/d45fbd98-a35a-4afc-975d-cb2f1c3a9437)
+ ![Screenshot 2025-02-02 002059](https://github.com/user-attachments/assets/d45fbd98-a35a-4afc-975d-cb2f1c3a9437)
 
-3. ![Screenshot 2025-02-02 002131](https://github.com/user-attachments/assets/e77ba818-8303-4e73-a327-3d73c49734c9)
+ ![Screenshot 2025-02-02 002131](https://github.com/user-attachments/assets/e77ba818-8303-4e73-a327-3d73c49734c9)
 
 
 
