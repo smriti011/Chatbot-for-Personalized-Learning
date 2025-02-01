@@ -74,9 +74,8 @@ rasa train
 #### Local Deployment with Streamlit
 
 1. Install Streamlit
-'''
-pip install streamlit
-'''
+
+'''pip install streamlit'''
 
 
 
