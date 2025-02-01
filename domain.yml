@@ -1,0 +1,52 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - bot_challenge
+  - ask_for_help
+  - topic
+  - affirm
+  - deny
+  - who_created_you
+
+entities:
+  - topic
+
+
+slots:
+  topic:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: topic
+
+
+  keywords: 
+    type: list
+    influence_conversation: false
+    mappings:
+      - type: custom
+
+responses:
+  utter_greet:
+    - text: "Hello! I am an AI assistant. How can I help you today?"
+  utter_ask_topic:
+    - text: "What topic would you like to learn about?"
+  utter_ask_video:
+    - text: "Would you like to see some videos related about {topic}?"
+  utter_default:
+    - text: "I'm sorry, I didn't understand that. Could you please rephrase?"
+  utter_goodbye:
+    - text: "Goodbye! Feel free to come back anytime."
+  utter_iamabot:
+    - text: "I am an AI assistant."  
+  utter_more_info:
+    - text: "If there is anything more u want to learn, please tell" 
+  utter_creator:
+    - text: "I was created by Smriti Singh"   
+
+actions:
+  - action_generate_content
+  - action_fetch_youtube_videos
