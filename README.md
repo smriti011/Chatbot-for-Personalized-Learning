@@ -45,7 +45,7 @@ Prerequisites
 
 #### 1. Clone the repository
 
-``` https://github.com/smriti011/Chatbot-for-Personalized-Learning```
+    ``` https://github.com/smriti011/Chatbot-for-Personalized-Learning```
 
 #### 2. Create and activate virtual environment
 
