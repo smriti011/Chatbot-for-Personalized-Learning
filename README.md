@@ -52,9 +52,11 @@ Prerequisites
         python -m venv venv
 
 * For Windows
+  
         venv\Scripts\activate
 
 * For Unix/MacOS
+  
         source venv/bin/activate
 
 #### 3. Install dependencies
